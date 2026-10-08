@@ -13,7 +13,7 @@ leaders:
     dblp: ""
     interests: ""
 
-# Membros atuais. public: yes | pending | no
+# Membros atuais. public: yes | pending | no (publicados em 08/10/2026 por decisão do líder)
 #  yes     = aparece no site
 #  pending = só aparece com show_pending: true (preview), aguardando OK da pessoa
 # Um campo `confirmar` lista o que ainda falta (ex.: sobrenome).
@@ -22,110 +22,110 @@ members:
     level: "Pós-doutorado"
     since: "2025"
     group: "posdoc"
-    public: pending
+    public: "yes"
 
   - name: "Eduardo Alves da Silva"
     level: "Doutorado"
     since: "2022"
     group: "doutorado"
-    public: pending
+    public: "yes"
 
   - name: "Arthur Elwing Torres"
     level: "Doutorado"
     since: "2023"
     group: "doutorado"
-    public: pending
+    public: "yes"
 
   - name: "Júnio Freitas"
     level: "Doutorado"
     since: "2024"
     group: "doutorado"
-    public: pending
+    public: "yes"
     confirmar: "sobrenome completo"
 
   - name: "Jorge Magno"
     level: "Doutorado"
     since: "2026"
     group: "doutorado"
-    public: pending
+    public: "yes"
     confirmar: "sobrenome completo"
 
   - name: "Giovanna Andrade Santos"
     level: "Mestrado"
     since: "2024"
     group: "mestrado"
-    public: pending
+    public: "yes"
 
   - name: "Manoel"
     level: "Mestrado"
     since: "2024"
     group: "mestrado"
-    public: pending
+    public: "yes"
     confirmar: "sobrenome completo"
 
   - name: "Nádila"
     level: "Mestrado"
     since: "2025"
     group: "mestrado"
-    public: pending
+    public: "yes"
     confirmar: "sobrenome completo"
 
   - name: "Maria Vitória"
     level: "Mestrado"
     since: "2026"
     group: "mestrado"
-    public: pending
+    public: "yes"
     confirmar: "sobrenome completo"
 
   - name: "Anna Luisa Antony Afonso"
     level: "Iniciação científica"
     since: "2026"
     group: "ic"
-    public: pending
+    public: "yes"
 
   - name: "Beatriz Quaresma Athaide"
     level: "Iniciação científica"
     since: "2026"
     group: "ic"
-    public: pending
+    public: "yes"
 
   - name: "Eduardo Cordeiro da Camara"
     level: "Iniciação científica"
     since: "2026"
     group: "ic"
-    public: pending
+    public: "yes"
 
   - name: "Fernanda Souza de Freitas"
     level: "Iniciação científica"
     since: "2026"
     group: "ic"
-    public: pending
+    public: "yes"
 
   - name: "Jaide Fernando de Carvalho Zardin"
     level: "Iniciação científica"
     since: "2026"
     group: "ic"
-    public: pending
+    public: "yes"
 
   - name: "Lucas"
     level: "Iniciação científica"
     since: "2025"
     group: "ic"
-    public: pending
+    public: "yes"
     confirmar: "sobrenome completo"
 
   - name: "Bernardo"
     level: "Iniciação científica"
     since: "2026"
     group: "ic"
-    public: pending
+    public: "yes"
     confirmar: "sobrenome completo"
 
   - name: "Gabriel"
     level: "Iniciação científica"
     since: "2026"
     group: "ic"
-    public: pending
+    public: "yes"
     confirmar: "sobrenome completo"
 
 

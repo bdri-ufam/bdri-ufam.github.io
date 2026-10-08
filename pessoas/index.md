@@ -46,6 +46,7 @@ permalink: /pessoas/
 {% endif %}
 {% endfor %}
 
+{% if site.show_alumni %}
 ## Egressos
 
 Títulos defendidos sob orientação dos líderes do grupo, com o ano de defesa.
@@ -63,3 +64,4 @@ Títulos defendidos sob orientação dos líderes do grupo, com o ano de defesa.
 {% for a in site.data.people.alumni_masters %}<li>{{ a.name }} <span class="role">· {{ a.year }}</span></li>
 {% endfor %}
 </ul>
+{% endif %}
