@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.url != "/" %}{{ page.title }} · {% endif %}{{ site.short_title }} · UFAM</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-acronym">BDRI</span>
+      <span class="brand-name">Banco de Dados e Recuperação de Informação<br><small>Instituto de Computação · UFAM</small></span>
+    </a>
+    <nav>
+      <a href="{{ '/' | relative_url }}">Sobre</a>
+      <a href="{{ '/pessoas/' | relative_url }}">Pessoas</a>
+      <a href="{{ '/publicacoes/' | relative_url }}">Publicações</a>
+      <a href="{{ '/projetos/' | relative_url }}">Projetos</a>
+      <a href="{{ '/contato/' | relative_url }}">Contato</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+{{ content }}
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p>
+      Grupo certificado no
+      <a href="http://dgp.cnpq.br/dgp/espelhogrupo/0567430607436726">Diretório dos Grupos de Pesquisa do CNPq</a>
+      · <a href="https://icomp.ufam.edu.br/">Instituto de Computação</a>
+      · <a href="https://ufam.edu.br/">Universidade Federal do Amazonas</a>
+      · <a href="https://ppgi.ufam.edu.br/">PPGI</a>
+    </p>
+  </div>
+</footer>
+</body>
+</html>

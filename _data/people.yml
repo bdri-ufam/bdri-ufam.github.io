@@ -1,0 +1,182 @@
+# Líderes do grupo (fonte: Diretório dos Grupos de Pesquisa do CNPq e página de docentes do IComp)
+leaders:
+  - name: "Altigran Soares da Silva"
+    role: "Professor · Líder do grupo"
+    email: "alti@icomp.ufam.edu.br"
+    lattes: "http://lattes.cnpq.br/3405503472010994"
+    dblp: "https://dblp.org/pid/s/ASdaSilva"
+    interests: "Gerência de dados, recuperação de informação e mineração de dados, aprendizagem de máquina e modelos de linguagem, com ênfase na Web e em mídias sociais; aplicações em direito, mercado financeiro e saúde."
+  - name: "Edleno Silva de Moura"
+    role: "Professor · Líder do grupo"
+    email: "edleno@dcc.ufam.edu.br"
+    lattes: ""
+    dblp: ""
+    interests: ""
+
+# Membros atuais. public: yes | pending | no
+#  yes     = aparece no site
+#  pending = só aparece com show_pending: true (preview), aguardando OK da pessoa
+# Um campo `confirmar` lista o que ainda falta (ex.: sobrenome).
+members:
+  - name: "Livy Maria Real Coelho"
+    level: "Pós-doutorado"
+    since: "2025"
+    group: "posdoc"
+    public: pending
+
+  - name: "Eduardo Alves da Silva"
+    level: "Doutorado"
+    since: "2022"
+    group: "doutorado"
+    public: pending
+
+  - name: "Arthur Elwing Torres"
+    level: "Doutorado"
+    since: "2023"
+    group: "doutorado"
+    public: pending
+
+  - name: "Júnio Freitas"
+    level: "Doutorado"
+    since: "2024"
+    group: "doutorado"
+    public: pending
+    confirmar: "sobrenome completo"
+
+  - name: "Jorge Magno"
+    level: "Doutorado"
+    since: "2026"
+    group: "doutorado"
+    public: pending
+    confirmar: "sobrenome completo"
+
+  - name: "Giovanna Andrade Santos"
+    level: "Mestrado"
+    since: "2024"
+    group: "mestrado"
+    public: pending
+
+  - name: "Manoel"
+    level: "Mestrado"
+    since: "2024"
+    group: "mestrado"
+    public: pending
+    confirmar: "sobrenome completo"
+
+  - name: "Nádila"
+    level: "Mestrado"
+    since: "2025"
+    group: "mestrado"
+    public: pending
+    confirmar: "sobrenome completo"
+
+  - name: "Maria Vitória"
+    level: "Mestrado"
+    since: "2026"
+    group: "mestrado"
+    public: pending
+    confirmar: "sobrenome completo"
+
+  - name: "Anna Luisa Antony Afonso"
+    level: "Iniciação científica"
+    since: "2026"
+    group: "ic"
+    public: pending
+
+  - name: "Beatriz Quaresma Athaide"
+    level: "Iniciação científica"
+    since: "2026"
+    group: "ic"
+    public: pending
+
+  - name: "Eduardo Cordeiro da Camara"
+    level: "Iniciação científica"
+    since: "2026"
+    group: "ic"
+    public: pending
+
+  - name: "Fernanda Souza de Freitas"
+    level: "Iniciação científica"
+    since: "2026"
+    group: "ic"
+    public: pending
+
+  - name: "Jaide Fernando de Carvalho Zardin"
+    level: "Iniciação científica"
+    since: "2026"
+    group: "ic"
+    public: pending
+
+  - name: "Lucas"
+    level: "Iniciação científica"
+    since: "2025"
+    group: "ic"
+    public: pending
+    confirmar: "sobrenome completo"
+
+  - name: "Bernardo"
+    level: "Iniciação científica"
+    since: "2026"
+    group: "ic"
+    public: pending
+    confirmar: "sobrenome completo"
+
+  - name: "Gabriel"
+    level: "Iniciação científica"
+    since: "2026"
+    group: "ic"
+    public: pending
+    confirmar: "sobrenome completo"
+
+
+# Egressos (títulos defendidos sob orientação). Fonte: nota do vault, ainda não conferida contra o repositório do PPGI.
+alumni_doctorate:
+  - {name: "Ariel Antony Afonso", year: 2026}
+  - {name: "Paulo Rodrigo Oliveira Martins", year: 2024}
+  - {name: "Ronny Peterson Guimarães", year: 2024}
+  - {name: "Henry Silva Vieira", year: 2018}
+  - {name: "Diego Rodrigues", year: 2018}
+  - {name: "Tiago de Melo", year: 2018}
+  - {name: "Péricles Oliveira", year: 2017}
+  - {name: "Karane Mariano Vieira", year: 2012}
+  - {name: "Eli Cortez Custodio Vilarinho", year: 2012}
+  - {name: "Carina F. Dorneles", year: 2006}
+
+alumni_masters:
+  - {name: "Tarsis Figueredo Azevedo", year: 2024}
+  - {name: "Brandell Cássio Corrêa Ferreira", year: 2022}
+  - {name: "Lucas Citolin", year: 2021}
+  - {name: "Ariel Antony Afonso", year: 2020}
+  - {name: "Paulo Rodrigo Oliveira Martins", year: 2020}
+  - {name: "Víctor Macêdo Alexandrino", year: 2020}
+  - {name: "Gilberto Eduardo Santos", year: 2018}
+  - {name: "Luisa dos Reis e Silva", year: 2017}
+  - {name: "Urique Hoffmann de Souza Almeida", year: 2016}
+  - {name: "Leonardo Fontes do Nascimento", year: 2016}
+  - {name: "Diego de Azevedo Barros", year: 2016}
+  - {name: "André Lopes Porto", year: 2015}
+  - {name: "Aurélio Andrade de Menezes Júnior", year: 2012}
+  - {name: "Felipe da Costa Hummel", year: 2011}
+  - {name: "Cristiano Alex Oliveira do Nascimento", year: 2011}
+  - {name: "André de Souza Pedralho", year: 2011}
+  - {name: "Guilherme Alves Toda", year: 2010}
+  - {name: "Diego de Azevedo Rodrigues", year: 2010}
+  - {name: "Eli Cortez Custodio Vilarinho", year: 2009}
+  - {name: "Kelen Acquati Viera", year: 2009}
+  - {name: "Karane Mariano Vieira", year: 2008}
+  - {name: "Filipe de Sá Mesquita", year: 2008}
+  - {name: "Luiz Rogério Evangelista", year: 2008}
+  - {name: "Júnio de Freitas", year: 2008}
+  - {name: "Roberto Oliveira", year: 2007}
+  - {name: "Daniel Pereira de Oliveira", year: 2006}
+  - {name: "Márcio Luiz Vidal", year: 2006}
+  - {name: "Edson César de Oliveira", year: 2005}
+  - {name: "Amanda Pereira Cunha", year: 2004}
+  - {name: "Ilton Luis Silva Seixas", year: 2004}
+  - {name: "Nivea Michele Mello", year: 2004}
+  - {name: "Jaques Jeovalino B de Moura", year: 2004}
+  - {name: "Davi de Castro Reis", year: 2004}
+  - {name: "Mário de Mello Bittencourt Neto", year: 2003}
+  - {name: "Olga R F de Oliveira", year: 2003}
+  - {name: "Rodrigo Cardoso Vieira", year: 2002}
+  - {name: "Juliana Santiago Teixeira", year: 2001}

@@ -1,0 +1,217 @@
+# Publicações recentes (2021+), extraídas do DBLP (https://dblp.org/pid/s/ASdaSilva) em 08/10/2026.
+# type: j = periódico, c = conferência/workshop, p = preprint (arXiv)
+- type: c
+  year: 2026
+  venue: "PROPOR (1)"
+  title: "Auditing the Evaluators: How Far Can Automatic Evaluation Go in Assessing Portuguese Financial Texts?"
+  authors: "Marina Ramalhete Masid; Gabriel Assis; Daniela Vianna; Aline Paes; Altigran Soares da Silva"
+  url: "https://aclanthology.org/2026.propor-1.22/"
+  pages: "222-233"
+- type: j
+  year: 2025
+  venue: "Artif. Intell. Law"
+  title: "A large scale benchmark for session-based recommendations on the legal domain"
+  authors: "Marcos Aurélio Domingues; Edleno Silva de Moura; Leandro Balby Marinho; Altigran S. da Silva"
+  url: "https://doi.org/10.1007/s10506-023-09378-3"
+  volume: "33"
+  pages: "43-78"
+- type: j
+  year: 2025
+  venue: "J. Braz. Comput. Soc."
+  title: "Learning to Rank for Query Auto-completion in the Legal Domain"
+  authors: "Marcos Aurélio Domingues; Lucas Rocha; Edleno Silva de Moura; Altigran Soares da Silva"
+  url: "https://doi.org/10.5753/jbcs.2025.4279"
+  volume: "31"
+  pages: "382-400"
+- type: j
+  year: 2025
+  venue: "TGDK"
+  title: "CoaKG: A Contextualized Knowledge Graph Approach for Exploratory Search and Decision Making"
+  authors: "Veronica dos Santos; Daniel Schwabe; Altigran Soares da Silva; Sérgio Lifschitz"
+  url: "https://doi.org/10.4230/TGDK.3.1.4"
+  volume: "3"
+  pages: "4:1-4:27"
+- type: c
+  year: 2025
+  venue: "ICAIF"
+  title: "Language Models for Automated Market Commentary from Corporate Disclosures"
+  authors: "Gabriel Assis; Hugo Coutinho Dutra; Daniela Vianna; Wagner Meira Jr.; Altigran Soares da Silva; Aline Paes"
+  url: "https://doi.org/10.1145/3768292.3770438"
+  pages: "727-735"
+- type: c
+  year: 2025
+  venue: "STIL"
+  title: "LattesRex: Building ChatBots for Semi-Structured Documents"
+  authors: "Lucas Darcio; Karina Soares Santos; Amanda Spellen; Esther Soares; Livy Real; Altigran Soares da Silva"
+  url: "https://doi.org/10.5753/stil.2025.37819"
+  pages: "125-136"
+- type: p
+  year: 2025
+  venue: "arXiv"
+  title: "Transformer-based Ranking Approaches for Keyword Queries over Relational Databases"
+  authors: "Paulo Martins; Altigran S. da Silva; Johny Moreira; Edleno Silva de Moura"
+  url: "https://doi.org/10.48550/arXiv.2503.18768"
+  volume: "abs/2503.18768"
+- type: p
+  year: 2025
+  venue: "arXiv"
+  title: "Na Prática, qual IA Entende o Direito? Um Estudo Experimental com IAs Generalistas e uma IA Jurídica"
+  authors: "Marina Soares Marinho; Daniela Vianna; Livy Real; Altigran S. da Silva; Gabriela Migliorini"
+  url: "https://doi.org/10.48550/arXiv.2510.18108"
+  volume: "abs/2510.18108"
+- type: j
+  year: 2024
+  venue: "Artif. Intell. Law"
+  title: "A topic discovery approach for unsupervised organization of legal document collections"
+  authors: "Daniela Vianna; Edleno Silva de Moura; Altigran Soares da Silva"
+  url: "https://doi.org/10.1007/s10506-023-09371-w"
+  volume: "32"
+  pages: "1045-1074"
+- type: j
+  year: 2024
+  venue: "J. Braz. Comput. Soc."
+  title: "BWBEV: A Bitwise Query Processing Algorithm for Approximate Prefix Search"
+  authors: "Edleno Silva de Moura; Berg Ferreira; Altigran S. da Silva; Ricardo Baeza-Yates"
+  url: "https://doi.org/10.5753/jbcs.2024.4236"
+  volume: "30"
+  pages: "527-541"
+- type: j
+  year: 2024
+  venue: "Knowl. Inf. Syst."
+  title: "SEREIA: document store exploration through keywords"
+  authors: "Ariel Afonso; Paulo Martins; Altigran S. da Silva"
+  url: "https://doi.org/10.1007/s10115-024-02151-1"
+  volume: "66"
+  pages: "6101-6132"
+- type: c
+  year: 2024
+  venue: "RecSys"
+  title: "A Tool for Explainable Pension Fund Recommendations using Large Language Models"
+  authors: "Eduardo Alves da Silva; Leandro Balby Marinho; Edleno Silva de Moura; Altigran Soares da Silva"
+  url: "https://doi.org/10.1145/3640457.3691699"
+  pages: "1184-1186"
+- type: c
+  year: 2024
+  venue: "SBBD"
+  title: "Um Estudo sobre o uso de Modelos de Linguagem Abertos na Tarefa de Recomendação de Próximo Item"
+  authors: "Marcos Avner Pimenta de Lima; Eduardo Alves da Silva; Altigran Soares da Silva"
+  url: "https://doi.org/10.5753/sbbd.2024.240865"
+  pages: "510-522"
+- type: c
+  year: 2024
+  venue: "SIGIR"
+  title: "A Study on Unsupervised Question and Answer Generation for Legal Information Retrieval and Precedents Understanding"
+  authors: "Johny Moreira; Altigran S. da Silva; Edleno Silva de Moura; Leandro Bezerra Marinho"
+  url: "https://doi.org/10.1145/3626772.3661354"
+  pages: "2865-2869"
+- type: p
+  year: 2024
+  venue: "arXiv"
+  title: "An Experimental Study on Data Augmentation Techniques for Named Entity Recognition on Low-Resource Domains"
+  authors: "Arthur Elwing Torres; Edleno Silva de Moura; Altigran Soares da Silva; Mario A. Nascimento; Filipe de Sá Mesquita"
+  url: "https://doi.org/10.48550/arXiv.2411.14551"
+  volume: "abs/2411.14551"
+- type: j
+  year: 2023
+  venue: "IEEE Access"
+  title: "Supporting Schema References in Keyword Queries Over Relational Databases"
+  authors: "Paulo Martins; Altigran Soares da Silva; Ariel Afonso; João M. B. Cavalcanti; Edleno Silva de Moura"
+  url: "https://doi.org/10.1109/ACCESS.2023.3308908"
+  volume: "11"
+  pages: "92365-92390"
+- type: c
+  year: 2023
+  venue: "ER (Workshops)"
+  title: "Using Knowledge Graphs to Generate SQL Queries from Textual Specifications"
+  authors: "Robson A. Campêlo; Alberto H. F. Laender; Altigran S. da Silva"
+  url: "https://doi.org/10.1007/978-3-031-47112-4_8"
+  pages: "85-94"
+- type: c
+  year: 2023
+  venue: "ICDE"
+  title: "PyLatheDB - A Library for Relational Keyword Search with Support to Schema References"
+  authors: "Paulo Martins; Ariel Afonso; Altigran S. da Silva"
+  url: "https://doi.org/10.1109/ICDE55515.2023.00284"
+  pages: "3627-3630"
+- type: c
+  year: 2023
+  venue: "SBBD"
+  title: "Modelagem de Tópicos para a Tarefa de Recuperação de Casos Legais"
+  authors: "Luisa Pereira Novaes; Daniela Vianna; Altigran Soares da Silva"
+  url: "https://doi.org/10.5753/sbbd.2023.232576"
+  pages: "128-140"
+- type: c
+  year: 2023
+  venue: "SBBD"
+  title: "Um Estudo Sobre Métricas de Avaliação para Sumarização de Acórdãos"
+  authors: "Gustavo Rufino Feltrin; Daniela Vianna; Altigran S. da Silva"
+  url: "https://doi.org/10.5753/sbbd.2023.232000"
+  pages: "295-305"
+- type: c
+  year: 2023
+  venue: "SBBD"
+  title: "Ensino de Engenharia de Dados nas Universidades Brasileiras: Estado Atual e Perspectivas de Mercado"
+  authors: "Tarsis Azevedo; Altigran S. da Silva"
+  url: "https://doi.org/10.5753/sbbd.2023.232464"
+  pages: "432-438"
+- type: j
+  year: 2022
+  venue: "Inf. Retr. J."
+  title: "Applying burst-tries for error-tolerant prefix search"
+  authors: "Berg Ferreira; Edleno Silva de Moura; Altigran Soares da Silva"
+  url: "https://doi.org/10.1007/s10791-022-09416-9"
+  volume: "25"
+  pages: "481-518"
+- type: j
+  year: 2022
+  venue: "J. Intell. Inf. Syst."
+  title: "A distantly supervised approach for enriching product graphs with user opinions"
+  authors: "Johny Moreira; Tiago de Melo; Luciano Barbosa; Altigran Soares da Silva"
+  url: "https://doi.org/10.1007/s10844-022-00717-5"
+  volume: "59"
+  pages: "435-454"
+- type: j
+  year: 2022
+  venue: "J. Intell. Inf. Syst."
+  title: "A distantly supervised approach for recognizing product mentions in user-generated content"
+  authors: "Henry S. Vieira; Altigran S. da Silva; Pável Calado; Edleno Silva de Moura"
+  url: "https://doi.org/10.1007/s10844-022-00718-4"
+  volume: "59"
+  pages: "543-566"
+- type: j
+  year: 2022
+  venue: "IEEE Trans. Knowl. Data Eng."
+  title: "Efficient Match-Based Candidate Network Generation for Keyword Queries Over Relational Databases"
+  authors: "Péricles Silva de Oliveira; Altigran S. da Silva; Edleno Silva de Moura; Rosiane de Freitas"
+  url: "https://doi.org/10.1109/TKDE.2020.2998046"
+  volume: "34"
+  pages: "1735-1750"
+- type: c
+  year: 2022
+  venue: "WI/IAT"
+  title: "EurOpi: Multilingual Aspect-Based Sentiment Analysis enabled by a Knowledge Base"
+  authors: "Danny Suarez Vargas; Lucas R. C. Pessutto; Viviane P. Moreira; Tiago de Melo; Altigran S. da Silva"
+  url: "https://doi.org/10.1109/WI-IAT55865.2022.00013"
+  pages: "18-25"
+- type: p
+  year: 2022
+  venue: "arXiv"
+  title: "Supporting Schema References in Keyword Queries over Relational Databases"
+  authors: "Paulo Martins; Altigran S. da Silva; João Cavalcanti; Edleno Silva de Moura"
+  url: "https://doi.org/10.48550/arXiv.2203.05921"
+  volume: "abs/2203.05921"
+- type: j
+  year: 2021
+  venue: "J. Braz. Comput. Soc."
+  title: "A study on machine learning techniques for the schema matching network problem"
+  authors: "Diego Rodrigues; Altigran S. da Silva"
+  url: "https://doi.org/10.1186/s13173-021-00119-5"
+  volume: "27"
+  pages: "14"
+- type: c
+  year: 2021
+  venue: "SBBD"
+  title: "SEREIA - Busca por Palavras-Chave em Document Stores"
+  authors: "Ariel Afonso; Paulo Martins; Altigran S. da Silva"
+  url: "https://doi.org/10.5753/sbbd.2021.17872"
+  pages: "133-144"

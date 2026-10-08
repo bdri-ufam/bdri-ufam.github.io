@@ -1,0 +1,18 @@
+title: "Grupo de Banco de Dados e Recuperação de Informação (BDRI)"
+short_title: "BDRI"
+description: "Grupo de pesquisa em bancos de dados e recuperação de informação do Instituto de Computação da Universidade Federal do Amazonas (UFAM)."
+lang: pt-BR
+# Preencher depois de criar a organização no GitHub (ex.: https://ufam-bdri.github.io)
+url: ""
+baseurl: ""
+
+# Pessoas com `public: pending` só aparecem se show_pending for true.
+# Mantido false no repositório; o preview local usa _config_preview.yml.
+show_pending: false
+
+exclude:
+  - README.md
+  - PENDING.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
