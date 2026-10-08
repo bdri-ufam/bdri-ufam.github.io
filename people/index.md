@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Pessoas
-permalink: /pessoas/
+title: People
+permalink: /people/
 ---
-# Pessoas
+# People
 
-## Líderes
+## Group leaders
 
 <ul class="people">
 {% for p in site.data.people.leaders %}
@@ -21,17 +21,17 @@ permalink: /pessoas/
 {% endfor %}
 </ul>
 
-## Membros atuais
+## Current members
 
 {% assign order = "posdoc,doutorado,mestrado,ic" | split: "," %}
-{% assign titles = "Pós-doutorado,Doutorado,Mestrado,Iniciação científica" | split: "," %}
+{% assign titles = "Postdoctoral researchers,PhD students,MSc students,Undergraduate researchers" | split: "," %}
 {% for g in order %}
 {% assign idx = forloop.index0 %}
 {% capture block %}
 {% for m in site.data.people.members %}
 {% if m.group == g %}
 {% if m.public == "yes" or m.public == "pending" and site.show_pending %}
-  <li>{{ m.name }} <span class="role">· desde {{ m.since }}</span>{% if m.public == "pending" %}<span class="badge">a confirmar{% if m.confirmar %}: {{ m.confirmar }}{% endif %}</span>{% endif %}</li>
+  <li>{{ m.name }} <span class="role">· since {{ m.since }}</span>{% if m.public == "pending" %}<span class="badge">to be confirmed{% if m.confirmar %}: {{ m.confirmar }}{% endif %}</span>{% endif %}</li>
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -47,18 +47,18 @@ permalink: /pessoas/
 {% endfor %}
 
 {% if site.show_alumni %}
-## Egressos
+## Alumni
 
-Títulos defendidos sob orientação dos líderes do grupo, com o ano de defesa.
+Degrees completed under the supervision of the group leaders, with year of defense.
 
-### Doutorado
+### PhD
 
 <ul class="people">
 {% for a in site.data.people.alumni_doctorate %}<li>{{ a.name }} <span class="role">· {{ a.year }}</span></li>
 {% endfor %}
 </ul>
 
-### Mestrado
+### MSc
 
 <ul class="people">
 {% for a in site.data.people.alumni_masters %}<li>{{ a.name }} <span class="role">· {{ a.year }}</span></li>

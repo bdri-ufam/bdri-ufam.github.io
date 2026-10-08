@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Publicações
-permalink: /publicacoes/
+title: Publications
+permalink: /publications/
 ---
-# Publicações
+# Publications
 
-Publicações recentes de Altigran Soares da Silva (2021 em diante), extraídas do [DBLP](https://dblp.org/pid/s/ASdaSilva). A lista completa e as demais publicações estão no DBLP e no [Lattes](http://lattes.cnpq.br/3405503472010994).
+Recent publications by Altigran Soares da Silva (2021 onwards), extracted from [DBLP](https://dblp.org/pid/s/ASdaSilva). The complete list is available on DBLP and on the [Lattes CV](http://lattes.cnpq.br/3405503472010994).
 
 {% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
 {% for y in years %}
