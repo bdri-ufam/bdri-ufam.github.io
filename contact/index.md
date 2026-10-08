@@ -5,8 +5,8 @@ permalink: /contact/
 ---
 # Contact
 
+**Edleno Silva de Moura** · [edleno@icomp.ufam.edu.br](mailto:edleno@icomp.ufam.edu.br)
 **Altigran Soares da Silva** · [alti@icomp.ufam.edu.br](mailto:alti@icomp.ufam.edu.br)
-**Edleno Silva de Moura** · [edleno@dcc.ufam.edu.br](mailto:edleno@dcc.ufam.edu.br)
 
 Institute of Computing, Federal University of Amazonas
 Av. Rodrigo Otávio, 6200 · Japiim · Manaus, AM, Brazil · ZIP 69077-000
@@ -18,6 +18,8 @@ Phone: +55 92 3647-4019
 - [IComp/UFAM faculty list](https://icomp.ufam.edu.br/corpo-docente.html)
 - [PPGI/UFAM](https://ppgi.ufam.edu.br/)
 - [BDRI on GitHub](https://github.com/bdri-ufam) (software and datasets)
+- [Lattes CV of Edleno Silva de Moura](http://lattes.cnpq.br/4737852130924504)
+- [DBLP profile of Edleno Silva de Moura](https://dblp.org/pid/m/EdlenoSilvadeMoura)
 - [Homepage of Altigran Soares da Silva](https://altigran.github.io)
 - [ORCID of Altigran Soares da Silva](https://orcid.org/0000-0002-8992-495X)
 - [Lattes CV of Altigran Soares da Silva](http://lattes.cnpq.br/3405503472010994)

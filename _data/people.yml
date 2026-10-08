@@ -1,5 +1,15 @@
-# Líderes do grupo. Fontes: página pessoal (altigran.github.io), Lattes, IComp, DGP/CNPq.
+# Líderes do grupo. Ordem fixa: Edleno primeiro, depois Altigran (como na página pessoal do Altigran). Fontes: página pessoal (altigran.github.io), Lattes, IComp, DGP/CNPq.
 leaders:
+  - name: "Edleno Silva de Moura"
+    role: "Professor · Group leader"
+    email: "edleno@icomp.ufam.edu.br"
+    lattes: "http://lattes.cnpq.br/4737852130924504"
+    dblp: "https://dblp.org/pid/m/EdlenoSilvadeMoura"
+    orcid: ""
+    homepage: ""
+    bio: "Ph.D. from UFMG. Professor at the Institute of Computing of UFAM."
+    interests: "Information retrieval, with emphasis on search systems, and bioinformatics."
+
   - name: "Altigran Soares da Silva"
     role: "Full Professor · Group leader"
     email: "alti@icomp.ufam.edu.br"
@@ -9,15 +19,6 @@ leaders:
     homepage: "https://altigran.github.io"
     bio: "Full Professor at the Institute of Computing of UFAM, CNPq Research Productivity Fellow (Level A) and Member of the Brazilian Academy of Sciences. Ph.D. in Computer Science from UFMG (2002). Editor-in-Chief of the Journal of the Brazilian Computer Society and Latin America and Caribbean Regional Committee Chair of the ACM Globalization Board. Former Vice President for Research and Graduate Studies at UFAM and Deputy Coordinator of the Computer Science area at CAPES."
     interests: "Data management, information retrieval and data mining, machine learning and language models, with emphasis on the Web and social media; applications in law, finance and health."
-  - name: "Edleno Silva de Moura"
-    role: "Professor · Group leader"
-    email: "edleno@dcc.ufam.edu.br"
-    lattes: ""
-    dblp: ""
-    orcid: ""
-    homepage: ""
-    bio: ""
-    interests: ""
 
 # Membros atuais. public: "yes" | "pending" | "no". Sempre com aspas: YAML lê yes sem aspas como booleano.
 # `topic` = título do trabalho (página pessoal do Altigran ou título oficial do projeto PIBITI).

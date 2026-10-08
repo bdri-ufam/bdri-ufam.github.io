@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 # Publications
 
-Recent publications by Altigran Soares da Silva (2021 onwards), extracted from [DBLP](https://dblp.org/pid/s/ASdaSilva). The complete list is available on DBLP and on the [Lattes CV](http://lattes.cnpq.br/3405503472010994).
+Recent publications by the group leaders (2021 onwards). Complete lists: Edleno Silva de Moura on [DBLP](https://dblp.org/pid/m/EdlenoSilvadeMoura) and [Lattes](http://lattes.cnpq.br/4737852130924504); Altigran Soares da Silva on [DBLP](https://dblp.org/pid/s/ASdaSilva) and [Lattes](http://lattes.cnpq.br/3405503472010994).
 
 {% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
 {% for y in years %}

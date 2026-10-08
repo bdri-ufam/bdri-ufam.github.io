@@ -9,7 +9,7 @@ title: About
 <dl class="facts">
   <dt>Institution</dt><dd>Federal University of Amazonas · Institute of Computing</dd>
   <dt>Founded</dt><dd>2002 (formerly the information technology group)</dd>
-  <dt>Leaders</dt><dd>Altigran Soares da Silva and Edleno Silva de Moura</dd>
+  <dt>Leaders</dt><dd>Edleno Silva de Moura and Altigran Soares da Silva</dd>
   <dt>CNPq Directory</dt><dd>Certified group · <a href="http://dgp.cnpq.br/dgp/espelhogrupo/0567430607436726">group page</a></dd>
   <dt>Area</dt><dd>Exact and Earth Sciences · Computer Science</dd>
 </dl>

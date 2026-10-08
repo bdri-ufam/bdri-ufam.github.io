@@ -1,4 +1,4 @@
-# Publicações recentes (2021+), extraídas do DBLP (https://dblp.org/pid/s/ASdaSilva) em 08/10/2026.
+# Publicações recentes (2021+) dos líderes, extraídas do DBLP (m/EdlenoSilvadeMoura e s/ASdaSilva) em 08/10/2026.
 # type: j = periódico, c = conferência/workshop, p = preprint (arXiv)
 # Os três últimos de 2024 (FinNLP, KDMiLe, EDUCOMP) vêm da página pessoal do Altigran; os demais, do DBLP.
 - type: c
@@ -236,3 +236,25 @@
   authors: "Tarsis Azevedo; Altigran Silva"
   url: "https://sol.sbc.org.br/index.php/educomp/article/view/28206"
   pages: "375-383"
+- type: "c"
+  year: "2025"
+  venue: "ECIR (3)"
+  title: "Leveraging Query Terms for Efficient Legal Document Recommendation"
+  authors: "André Rolim; Leandro Balby Marinho; Edleno Silva de Moura; Marcos Aurélio Domingues; Ricardo S. Oliveira"
+  url: "https://doi.org/10.1007/978-3-031-88714-7_6"
+  pages: "85-99"
+- type: "c"
+  year: "2022"
+  venue: "SIGIR"
+  title: "Organizing Portuguese Legal Documents through Topic Discovery"
+  authors: "Daniela Vianna; Edleno Silva de Moura"
+  url: "https://doi.org/10.1145/3477495.3536329"
+  pages: "3388-3392"
+- type: "j"
+  year: "2021"
+  venue: "Sensors"
+  title: "A Small World Graph Approach for an Efficient Indoor Positioning System"
+  authors: "Max Willian Soares Lima; Leonardo Guimarães; Eulanda Miranda dos Santos; Edleno Silva de Moura; Rafael Kohler Costa; Marco Levorato; Horacio A. B. Fernandes de Oliveira"
+  url: "https://doi.org/10.3390/s21155013"
+  volume: "21"
+  pages: "5013"
