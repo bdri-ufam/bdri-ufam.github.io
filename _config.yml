@@ -2,7 +2,7 @@ title: "Grupo de Banco de Dados e Recuperação de Informação (BDRI)"
 short_title: "BDRI"
 description: "Grupo de pesquisa em bancos de dados e recuperação de informação do Instituto de Computação da Universidade Federal do Amazonas (UFAM)."
 lang: pt-BR
-url: "https://bdri-ufam.github.io"
+url: ""
 baseurl: "https://bdri-ufam.github.io"
 
 # Pessoas com `public: pending` só aparecem se show_pending for true.
