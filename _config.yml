@@ -3,7 +3,7 @@ short_title: "BDRI"
 description: "Grupo de pesquisa em bancos de dados e recuperação de informação do Instituto de Computação da Universidade Federal do Amazonas (UFAM)."
 lang: pt-BR
 url: ""
-baseurl: "https://bdri-ufam.github.io"
+baseurl: ""
 
 # Pessoas com `public: pending` só aparecem se show_pending for true.
 # Mantido false no repositório; o preview local usa _config_preview.yml.
