@@ -1,133 +1,119 @@
-# Líderes do grupo (fonte: Diretório dos Grupos de Pesquisa do CNPq e página de docentes do IComp)
+# Líderes do grupo. Fontes: página pessoal (altigran.github.io), Lattes, IComp, DGP/CNPq.
 leaders:
   - name: "Altigran Soares da Silva"
-    role: "Professor · Group leader"
+    role: "Full Professor · Group leader"
     email: "alti@icomp.ufam.edu.br"
     lattes: "http://lattes.cnpq.br/3405503472010994"
     dblp: "https://dblp.org/pid/s/ASdaSilva"
+    orcid: "https://orcid.org/0000-0002-8992-495X"
+    homepage: "https://altigran.github.io"
+    bio: "Full Professor at the Institute of Computing of UFAM, CNPq Research Productivity Fellow (Level A) and Member of the Brazilian Academy of Sciences. Ph.D. in Computer Science from UFMG (2002). Editor-in-Chief of the Journal of the Brazilian Computer Society and Latin America and Caribbean Regional Committee Chair of the ACM Globalization Board. Former Vice President for Research and Graduate Studies at UFAM and Deputy Coordinator of the Computer Science area at CAPES."
     interests: "Data management, information retrieval and data mining, machine learning and language models, with emphasis on the Web and social media; applications in law, finance and health."
   - name: "Edleno Silva de Moura"
     role: "Professor · Group leader"
     email: "edleno@dcc.ufam.edu.br"
     lattes: ""
     dblp: ""
+    orcid: ""
+    homepage: ""
+    bio: ""
     interests: ""
 
-# Membros atuais. public: yes | pending | no (publicados em 08/10/2026 por decisão do líder)
-#  yes     = aparece no site
-#  pending = só aparece com show_pending: true (preview), aguardando OK da pessoa
-# Um campo `confirmar` lista o que ainda falta (ex.: sobrenome).
+# Membros atuais. public: "yes" | "pending" | "no". Sempre com aspas: YAML lê yes sem aspas como booleano.
+# `topic` = título do trabalho (página pessoal do Altigran ou título oficial do projeto PIBITI).
 members:
   - name: "Livy Maria Real Coelho"
     level: "Postdoctoral researcher"
     since: "2025"
     group: "posdoc"
     public: "yes"
-
   - name: "Eduardo Alves da Silva"
     level: "PhD"
     since: "2022"
     group: "doutorado"
     public: "yes"
-
+    topic: "A Study on Portfolio Recommendation Methods for Pension Investments"
   - name: "Arthur Elwing Torres"
     level: "PhD"
     since: "2023"
     group: "doutorado"
     public: "yes"
-
-  - name: "Júnio Freitas"
+    topic: "Analysis of Data Augmentation in Named Entity Extraction for Domain-Specific Texts"
+  - name: "Júnio da Silva de Freitas"
     level: "PhD"
     since: "2024"
     group: "doutorado"
     public: "yes"
-    confirmar: "sobrenome completo"
-
+    topic: "Automatic View Generation for Databases: Enhancing SQL-to-Text Conversion with LLMs"
   - name: "Jorge Magno"
     level: "PhD"
     since: "2026"
     group: "doutorado"
     public: "yes"
-    confirmar: "sobrenome completo"
-
   - name: "Giovanna Andrade Santos"
     level: "MSc"
     since: "2024"
     group: "mestrado"
     public: "yes"
-
-  - name: "Manoel"
+    topic: "A Study on Sentence Segmentation in Brazilian Legal Texts Using Language Models"
+  - name: "Manoel Victor Florencio de Souza"
     level: "MSc"
     since: "2024"
     group: "mestrado"
     public: "yes"
-    confirmar: "sobrenome completo"
-
-  - name: "Nádila"
+    topic: "Semantic Join Discovery in Data Lakes"
+  - name: "Nádila Azevedo"
     level: "MSc"
     since: "2025"
     group: "mestrado"
     public: "yes"
-    confirmar: "sobrenome completo"
-
   - name: "Maria Vitória"
     level: "MSc"
     since: "2026"
     group: "mestrado"
     public: "yes"
-    confirmar: "sobrenome completo"
-
   - name: "Anna Luisa Antony Afonso"
     level: "Undergraduate research"
     since: "2026"
     group: "ic"
     public: "yes"
-
   - name: "Beatriz Quaresma Athaide"
     level: "Undergraduate research"
     since: "2026"
     group: "ic"
     public: "yes"
-
   - name: "Eduardo Cordeiro da Camara"
     level: "Undergraduate research"
     since: "2026"
     group: "ic"
     public: "yes"
-
   - name: "Fernanda Souza de Freitas"
     level: "Undergraduate research"
     since: "2026"
     group: "ic"
     public: "yes"
-
   - name: "Jaide Fernando de Carvalho Zardin"
     level: "Undergraduate research"
     since: "2026"
     group: "ic"
     public: "yes"
-
-  - name: "Lucas"
+  - name: "Lucas Saraiva de Moura"
     level: "Undergraduate research"
     since: "2025"
     group: "ic"
     public: "yes"
-    confirmar: "sobrenome completo"
-
   - name: "Bernardo"
     level: "Undergraduate research"
     since: "2026"
     group: "ic"
     public: "yes"
-    confirmar: "sobrenome completo"
-
+    topic: "An LLM-Based Agent for Searching and Prioritizing siRNA Target Regions"
   - name: "Gabriel"
     level: "Undergraduate research"
     since: "2026"
     group: "ic"
     public: "yes"
-    confirmar: "sobrenome completo"
-
+    topic: "Embedding-Based Semantic Blocking for Join Discovery with LLMs in Data Lakes"
 
 # Egressos (títulos defendidos sob orientação). Fonte: nota do vault, ainda não conferida contra o repositório do PPGI.
 alumni_doctorate:

@@ -23,6 +23,7 @@ h3{font-size:1.05rem;margin:1.4em 0 .3em}
 ul.people{list-style:none;padding:0;margin:.4em 0}
 ul.people li{padding:6px 0;border-bottom:1px solid #eef0f4}
 ul.people .role{color:var(--muted);font-size:.92rem}
+.topic{font-size:.92rem}
 .badge{display:inline-block;margin-left:8px;padding:0 7px;border-radius:9px;background:#fff3cd;color:#7a5b00;font-size:.75rem;vertical-align:middle}
 ol.pubs{padding-left:1.4em}
 ol.pubs li{margin:.7em 0}
